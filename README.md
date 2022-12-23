@@ -114,13 +114,13 @@ _Below is an example of how you can instruct your audience on installing and set
    git clone https://github.com/your_username_/Project-Name.git
    ```
 3. Start your container, run
-  ```
-  docker-compose up 
-  ```
+   ```sh
+    docker-compose up 
+   ```
 4. Stop your container
-  ```
+   ```sh
   docker-compose down
-  ```
+   ```
 5. Additional commands, check https://docs.docker.com/compose/reference/
 
 
